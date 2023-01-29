@@ -3,5 +3,5 @@
 <hr/>
 <h2 align="center">Консольное окно программы</h2>
 <p align="center">
-  <a href="123"><img src="https://github.com/kontr24/OperationMatrices/blob/867500e659af87c127c1af459155f75030141da0/ScreenshotsApplication/ConsoleWindow.png"></img></a>
+  <a href="https://raw.githubusercontent.com/kontr24/OperationMatrices/867500e659af87c127c1af459155f75030141da0/ScreenshotsApplication/ConsoleWindow.png?token=GHSAT0AAAAAAB4VDPGO447GUPELVLAC66LQY6W4BZQ"><img src="https://github.com/kontr24/OperationMatrices/blob/867500e659af87c127c1af459155f75030141da0/ScreenshotsApplication/ConsoleWindow.png"></img></a>
 </p>
